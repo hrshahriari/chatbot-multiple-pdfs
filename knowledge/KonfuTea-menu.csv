@@ -1,0 +1,125 @@
+﻿Category,Drink,calories,contains Dairy,Vegan,coffeine free,contains gluten,contains tree nuts,best seller
+Standard Toppings,Boba, 199-299 calories,No,No,Yes,No,No,No
+Standard Toppings,Oreo, 93-140 calories,No,No,Yes,Yes,No,No
+Standard Toppings,Pudding, 87-131 calories,Yes,No,Yes,No,No,No
+Standard Toppings,Nata Jelly, 79-119 calories,No,Yes,Yes,No,No,No
+Standard Toppings,Herbal Jelly, 111-167 calories,No,Yes,Yes,No,No,No
+Standard Toppings,Mango Jelly, 79-119 calories,No,Yes,Yes,No,No,No
+Standard Toppings,Red Bean, 125-187 calories,No,Yes,Yes,No,No,No
+Standard Toppings,Chia Seeds, 0 calories,No,No,Yes,No,No,No
+Standard Toppings,Purple Yam, 100-150 calories,No,Yes,Yes,No,No,No
+Premium Topping,Aloe Jelly, 42-63 calories,No,Yes,Yes,No,No,No
+Premium Topping,Lychee Crystal Boba, 54-80 calories,No,Yes,Yes,No,No,No
+Premium Topping,Berry Crystal Boba, 54-80 calories,No,Yes,Yes,No,No,No
+Premium Topping,Mango Popping Boba, 115-173 calories,No,Yes,Yes,No,No,No
+Premium Topping,Grape Popping Boba, 113-169 calories,No,Yes,Yes,No,No,No
+Premium Topping,Coffee Popping Boba, 104-156 calories,No,Yes,No,No,No,No
+Premium Topping,Strawberry Popping Boba, 130-190 calories,No,Yes,Yes,No,No,No
+Premium Topping,Brown Sugar Wow Boba, 162-244 calories,No,Yes,Yes,No,No,No
+Premium Topping,Milk Cap, 324 calories,Yes,No,Yes,No,No,No
+Classic,KF Black/Green/Oolong Tea, 0-244 calories,No,Yes,No,No,No,No
+Classic,KF Thai Tea, 310-620 calories,No,Yes,No,No,No,No
+Classic,KF Honey Tea, 54-218 calories,No,No,Yes,No,No,No
+Classic,Winter Melon Tea, 38-165 calories,No,Yes,Yes,No,No,Yes
+Classic,Longan Jujube Tea, 114-245 calories,No,Yes,Yes,No,No,No
+Classic,Winter Melon Green Tea, 38-165 calories,No,Yes,No,No,No,No
+Classic,Honey Black/Green/Oolong Tea, 54-218 calories,No,No,No,No,No,No
+Classic,Honey Thai Tea, 400-770 calories,No,No,No,No,No,No
+Punch (Avoid honey),Mango Green Tea, 75-170 calories,No,Yes,No,No,No,No
+Punch (Avoid honey),Passion Fruit Green Tea, 84-218 calories,No,Yes,No,No,No,Yes
+Punch (Avoid honey),Peach Oolong Tea, 60-200 calories,No,Yes,Yes,No,No,No
+Punch (Avoid honey),White Grape Punch, 140-310 calories,No,Yes,No,No,No,No
+Punch (Avoid honey),Guava Punch/Black Tea, 135-240 calories,No,Yes,No,No,No,No
+Punch (Avoid honey),Sunshine Grape-ade, 241-370 calories,No,Yes,No,No,No,No
+Punch (Avoid honey),Honey Lemonade,66-233,No,Yes,Yes,No,No,No
+Punch (Avoid honey),Rosehip Lemonade,93-247,No,Yes,Yes,No,No,No
+Punch (Avoid honey),Sunshine Pineapple Tea,191-266,No,Yes,No,No,No,No
+Punch (Avoid honey),Orange Green Tea,66-263,No,Yes,No,No,No,No
+Punch (Avoid honey),Grapefruit Green Tea,52-243,No,Yes,No,No,No,No
+Punch (Avoid honey),Strawberry Lemonade,129-255,No,Yes,Yes,No,No,No
+Punch (Avoid honey),Strawberry Lemon Green Tea,126-224,No,Yes,No,No,No,No
+Punch (Avoid honey),Lychee Punch/Black Tea,62-291,No,Yes,No,No,No,No
+Milk tea,KF Milk Black/Green Tea, 173-490 calories,No,No,No,No,No,Yes
+Milk tea,Oolong Milk Tea, 173-490 calories,No,No,No,No,No,No
+Milk tea,Thai Milk Tea, 580-960 calories,No,No,No,No,No,No
+Milk tea,Honey Milk Black/Green Tea, 230-540 calories,No,No,No,No,No,No
+Milk tea,Honey Oolong Milk Tea, 230-540 calories,No,No,No,No,No,No
+Milk tea,Honey Thai Milk Tea, 700-1160 calories,No,No,No,No,No,No
+Milk tea,Winter Melon Milk Green Tea, 190-330 calories,No,No,No,No,No,No
+Milk tea,Almond Milk Tea, 117-340 calories,No,No,No,No,Yes,No
+Milk tea,Coconut Milk Tea, 370-740 calories,No,No,No,No,No,No
+Milk tea,Coffee Milk Tea, 180-500 calories,No,No,No,No,No,No
+Milk tea,Taro Milk Black/Green Tea, 290-500 calories,No,No,No,No,No,No
+Milk tea,Roasted Chestnut Milk Tea, 210-400 calories,No,No,No,No,No,Yes
+Milk tea,Rosehip Milk Tea, 260-340 calories,No,No,No,No,No,No
+Milk tea,Strawberry Milk Tea, 330-570 calories,No,No,No,No,No,No
+Milk tea,Mango Milk Tea, 380-600 calories,No,No,No,No,No,No
+Milk tea,Peach Milk Tea, 240-470 calories,Yes,No,No,No,No,Yes
+Espresso,Signature Coffee, 91-213 calories,No,No,No,No,No,No
+Espresso,Caramel Macchiato, 162-299 calories,Yes,No,No,No,No,No
+Espresso,Coffee Latte, 84-231 calories,Yes,No,No,No,No,No
+Espresso,Cappuccino, 84-213 calories,Yes,No,No,No,No,No
+Espresso,Italian Mocha, 151-315 calories,Yes,No,No,No,No,No
+Espresso,Coffee Wow Milk Cap, 520-817 calories,Yes,No,No,No,No,No
+Yogurt,Yogurt Green Tea, 100-320 calories,Yes,No,No,No,No,Yes
+Yogurt,Yogurt Orange Juice, 140-290 calories,Yes,No,Yes,No,No,No
+Yogurt,Yogurt Grapefruit Juice, 160-410 calories,Yes,No,Yes,No,No,No
+Slush,Caramel Macchiato, 290-550 calories,Yes,No,No,No,No,No
+Slush,Coffee Slush, 180-460 calories,Yes,No,No,No,No,No
+Slush,Mocha Slush, 250-540 calories,Yes,No,No,No,No,No
+Slush,Matcha Red Bean Slush, 491-738 calories,Yes,No,No,No,No,No
+Slush,Pineapple Slush, 320-426 calories,No,Yes,Yes,No,No,No
+Slush,Red Bean Slush, 370-640 calories,No,Yes,Yes,No,No,No
+Slush,Pina Colada, 503-664 calories,Yes,No,Yes,No,No,No
+Slush,Passion Fruit Slush, 180-360 calories,No,Yes,Yes,No,No,No
+Slush,Mango Slush, 270-380 calories,No,Yes,Yes,No,No,No
+Slush,Mango Snow, 400-550 calories,No,Yes,Yes,No,No,Yes
+Slush,Oreo Slush, 480-620 calories,Yes,No,Yes,Yes,No,No
+Slush,Strawberry Milk Slush, 360-530 calories,Yes,No,Yes,No,No,No
+Slush,Taro Slush, 400-600 calories,Yes,No,Yes,No,No,No
+Slush,Caribbean Breeze, 327-420 calories,No,Yes,Yes,No,No,No
+Slush,Blueberry Lemon Slush, 179-487 calories,No,Yes,Yes,No,No,No
+Slush,Blueberry Creamsicle,352-745,Yes,No,Yes,No,No,No
+Slush,S'more Slush, 580-900 calories,Yes,No,Yes,Yes,No,No
+Slush,S'more Coffee Slush,580-910,Yes,No,No,Yes,No,No
+Slush,White Grape Slush,180-350,No,Yes,Yes,No,No,No
+Slush,Cocoa Lava Slush,234-355,No,No,Yes,No,No,No
+Slush,Honey Guava Slush, 234-355 calories,No,No,Yes,No,No,No
+Slush,Fruity Flurry,340-507,No,No,Yes,No,No,No
+Slush,Passion Fruit Swirl,514-710,Yes,No,Yes,No,No,No
+Slush,Roasted Chestnut Slush,320-450,Yes,No,Yes,No,Yes,No
+Slush,Mangonada,N,Yes,Yes,No,No,No,No
+what's new,BT/GT/OT Wow Milk Cap, 622-874 calories,Yes,No,No,No,No,No
+what's new,Espresso Thai Tea, 580-970 calories,Yes,No,No,No,No,No
+what's new,Toffee Thai Tea, 640-900 calories,Yes,No,No,No,No,No
+what's new,Malted Black Milk Tea,350-690,Yes,No,No,Yes,No,No
+what's new,Malted Milk Green Tea,350-690,Yes,No,No,Yes,No,No
+what's new,Malted Oolong Milk Tea,350-690,Yes,No,No,Yes,No,No
+what's new,Malted Thai Milk Tea,660-910,Yes,No,No,Yes,No,No
+what's new,Malted Cocoa Bliss,380-710,Yes,No,Yes,Yes,No,No
+what's new,Cereal Milk Cronch,280-450,No,Yes,Yes,Yes,No,No
+what's new,Honeydew Milk Tea,310-480,Yes,No,No,No,No,No
+what's new,Honeydew Mania,330-490,Yes,No,Yes,No,No,No
+what's new,Strawberry Milk Cronch,410-690,No,Yes,Yes,Yes,No,No
+what's new,Double Chocolate Milk Cronch,420-700,No,Yes,Yes,Yes,No,No
+what's new,Peach Green Tea,100-180,No,Yes,No,No,No,No
+what's new,Apple Black Tea,120-220,No,Yes,No,No,No,No
+what's new,Apple Green Tea,120-220,No,Yes,No,No,No,No
+what's new,Apple Oolong Tea,120-220,No,Yes,No,No,No,No
+what's new,Apple Pie Slush,520-720,Yes,No,Yes,Yes,No,No
+what's new,Thai Tea Milk Cap,420-850,Yes,No,No,No,No,No
+what's new,Rider's of Rohan Lemonade,80-300,No,Yes,No,No,No,No
+what's new,Héra's Lavender Milk Tea,430-700,Yes,No,No,No,No,No
+what's new,Middle-Earth Lavender Latte,290-460,Yes,No,No,No,No,No
+what's new,Héra's Wild Lavender Punch,230-360,No,Yes,Yes,No,No,No
+Milk Strike,Chai MIlk,80-335,No,NO,NO,NO,NO,NO
+Milk Strike,Matcha Milk,250-410,NO,NO,YES,NO,NO,NO
+Milk Strike,Sesame Matcha,331-410,NO,NO,NO,NO,NO,NO
+Milk Strike,Cocoa,360-660,NO,NO,YES,NO,ON,NO
+Milk Strike,Thai Tea Latte,320-590,NO,NO,NO,NO,NO,NO
+Milk Strike,Honey Thai Tea Latte,380-710,NO,NO,NO,NO,NO,NO
+Milk Strike,Wow Milk,,YES,NO,YES,NO,NO,NO
+Milk Strike,Red Bean Wow,396-667,NO,NO,NO,NO,NO,NO
+Milk Strike,Herbal Jelly Wow,332-571,NO,NO,NO,NO,NO,NO
+Milk Strike,Cocoa Cream/Original Wow,316-870,NO,NO,NO,NO,NO,NO
+Milk Strike,Oreo Wow,400-584,NO,NO,NO,NO,NO,NO
